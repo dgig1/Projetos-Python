@@ -14,8 +14,10 @@ relatórios.
     ├── estacionamento
     │   └── main.py
     │
-    ├── analise-produtos
-    │   └── gerar_relatorio_html.py
+    ├── gerar_relatorio_html.rar
+    |   └── emack.csv
+    |   └── gerar_relatorio_html.py
+    |   └── relatorio_top_10_Best_sellers.html
     │
     └── README.md
 
